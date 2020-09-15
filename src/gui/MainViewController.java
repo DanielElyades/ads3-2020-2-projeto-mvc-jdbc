@@ -33,7 +33,7 @@ public class MainViewController implements Initializable {
 	}
 	@FXML
 	public void onMenuItemEspecialAccount() {
-		loadView("/gui/DepartamentList.fxml");
+		loadView("/gui/EspecialAccount.fxml");
 	}
 	@FXML
 	public void onMenuItemAboutAction() {
